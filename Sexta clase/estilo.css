@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.grid{
+    display: grid;
+}
+.C1{
+    border: 2px solid red;
+    background-color: blue;
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100px;
+}
+.C2{
+    background-color: blueviolet;
+    padding: 100px;
+}
+.C3{
+    
+}
